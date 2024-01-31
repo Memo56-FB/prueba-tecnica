@@ -1,0 +1,11 @@
+.button-back {
+  color: #646dff;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+.character-name {
+  margin: 0;
+}
